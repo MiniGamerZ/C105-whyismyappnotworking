@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(yellow,orange,red,green,blue,violet,purple);
+}
+#text{
+    color:azure;
+}
+
+#WV{
+    color:azure;
+    font-size: 32px;
+}
+
+#camera{
+    height: 300px;
+    width:350px; 
+    border:black 2px dashed; 
+
+}
